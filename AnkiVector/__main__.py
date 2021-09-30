@@ -75,7 +75,7 @@ buttons = [
         InlineKeyboardButton(text="🖲 ZeroTwo alliance", url="https://t.me/ZeroTwo_alliance"),
     ],
     [
-        InlineKeyboardButton(text="❤️ My Darling", url="https://Its_Hiro"),
+        InlineKeyboardButton(text="❤️ My Darling", url="https://t.me/Its_Hiro"),
         InlineKeyboardButton(text="❔ Help", url="http://t.me/ZeroTwoGRobot?start=help"),
     ],
     [
