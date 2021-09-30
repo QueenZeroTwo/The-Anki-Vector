@@ -86,7 +86,7 @@ buttons = [
 ]
 
 
-Zerotwo_IMG = "https://telegra.ph/file/af93b79185e79ac93a429.jpg"
+Zerotwo_IMG = "https://telegra.ph/file/95dcb93c284d9ef8595d4.jpg"
 
 HELP_STRINGS = f"""
 *Main Commands :* [🤖](https://https://telegra.ph/file/76f275a081f36bc125918.jpg)
@@ -220,7 +220,7 @@ def start(update: Update, context: CallbackContext):
         else:
             update.effective_user.first_name
             update.effective_message.reply_photo(
-                Zerotwo_IMG,
+                ANKIVECTOR_IMG,
                 caption=PM_START_TEXT,
                 reply_markup=InlineKeyboardMarkup(buttons),
                 parse_mode=ParseMode.MARKDOWN,
