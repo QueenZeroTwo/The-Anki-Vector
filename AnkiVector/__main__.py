@@ -220,7 +220,7 @@ def start(update: Update, context: CallbackContext):
         else:
             update.effective_user.first_name
             update.effective_message.reply_photo(
-                ANKIVECTOR_IMG,
+                ZeroTwo_IMG,
                 caption=PM_START_TEXT,
                 reply_markup=InlineKeyboardMarkup(buttons),
                 parse_mode=ParseMode.MARKDOWN,
