@@ -86,7 +86,7 @@ buttons = [
 ]
 
 
-Zerotwo_IMG = "https://telegra.ph/file/af93b79185e79ac93a429.jpg"
+Zerotwo_IMG = "https://telegra.ph/file/76f275a081f36bc125918.jpg"
 
 HELP_STRINGS = f"""
 *Main Commands :* [🤖](https://telegra.ph/file/af93b79185e79ac93a429.jpg)
