@@ -1,5 +1,5 @@
 __help__ = """
-** Anki Vector - A Powerful Telegram Group Manager 🎶 **
+** ZeroTwo - A Powerful Telegram Group Manager 🎶 **
 
 Powerful Abilities
 
@@ -9,6 +9,6 @@ Powerful Abilities
 
 • Youtube Downloader 🎵
 
-Developers [TeamAnkiVector🇱🇰](https://t.me/TeamAnkiVector)
+Developer [✝️_𝙷𝚒𝚛𝚘🖤_✝️](https://t.me/Its_Hiro)
 """
 __mod_name__ = "About"
