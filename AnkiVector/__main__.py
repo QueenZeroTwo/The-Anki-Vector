@@ -71,12 +71,12 @@ PM_START_TEXT = """
 
 buttons = [
     [
-        InlineKeyboardButton(text="🎥 Anime Group", url="https://t.me/TheSincity1"),
-        InlineKeyboardButton(text="🖲 ZeroTwo alliance", url="https://t.me/ZeroTwo_alliance"),
+        InlineKeyboardButton(text="🎥 Anime Group", url="https://t.me/joinchat/d5eFAVuSZ7g2YjQ9"),
+        InlineKeyboardButton(text="🛡️ ZeroTwo alliance", url="https://t.me/ZeroTwo_alliance"),
     ],
     [
         InlineKeyboardButton(text="❤️ My Darling", url="https://t.me/Its_Hiro"),
-        InlineKeyboardButton(text="❔ Help", url="http://t.me/ZeroTwoGRobot?start=help"),
+        InlineKeyboardButton(text="🙋 Help", url="http://t.me/ZeroTwoGRobot?start=help"),
     ],
     [
         InlineKeyboardButton(
@@ -362,7 +362,7 @@ def help_button(update, context):
 
 
 @run_async
-def AnkiVector_about_callback(update, context):
+def ZeroTwo_about_callback(update, context):
     query = update.callback_query
     if query.data == "aboutmanu_":
         query.message.edit_text(
@@ -804,7 +804,7 @@ def main():
 
     if SUPPORT_CHAT is not None and isinstance(SUPPORT_CHAT, str):
         try:
-            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "Darling i'm back!✨")
+            dispatcher.bot.sendMessage(f"@{SUPPORT_CHAT}", "Heya Darling i'm back!✨")
         except Unauthorized:
             LOGGER.warning(
                 "Bot isnt able to send message to support_chat, go and check!"
