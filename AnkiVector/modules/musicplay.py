@@ -1,3 +1,4 @@
+Maximus『ARCANE』, [04.10.21 11:54]
 help = """
 *  • Groups and channels Voice Chat Music Play 🎧  *
 1) Make bot admin (Group and in channel if use cplay)
@@ -55,15 +56,3 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 @ZeroTwoGRobot
 """
 mod_name = "Music Play"
-© 2021 GitHub, Inc.
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
