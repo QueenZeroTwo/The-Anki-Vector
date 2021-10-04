@@ -54,5 +54,3 @@ channel is also can be used instead of c ( /cplay = /channelplay )
 * 🔸Bot🔸 *
 @ZeroTwoGRobot
 """
-mod_name = "Music Play
-© 2021 GitHub, Inc"
